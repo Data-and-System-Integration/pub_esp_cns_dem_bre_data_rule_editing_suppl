@@ -6,7 +6,7 @@
   </rowNumberCol>
   <descriptionCol>
     <hideColumn>false</hideColumn>
-    <width>150</width>
+    <width>326</width>
   </descriptionCol>
   <metadataCols/>
   <attributeCols>
@@ -30,7 +30,7 @@
         <isOtherwise>false</isOtherwise>
       </typedDefaultValue>
       <hideColumn>false</hideColumn>
-      <width>100</width>
+      <width>147</width>
       <attribute>activation-group</attribute>
       <reverseOrder>false</reverseOrder>
       <useRowNumber>false</useRowNumber>
@@ -44,7 +44,7 @@
       <conditions>
         <condition-column52>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>338</width>
           <header>detssupercategory : data_npd_attr_82 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>data_npd_attr_82</factField>
@@ -54,7 +54,7 @@
         </condition-column52>
         <condition-column52>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>312</width>
           <header>Detsrgroup : data_npd_attr_84 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>data_npd_attr_84</factField>
@@ -89,7 +89,7 @@
       <childColumns>
         <org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>508</width>
           <header>detssupercategory : Assign data.data_npd_attr_82 to data_npd_attr_82</header>
           <fieldType>Boolean</fieldType>
         </org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
@@ -115,7 +115,7 @@
       <childColumns>
         <org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>451</width>
           <header>Detsrmaingroup : Assign data.data_npd_attr_80 to data_npd_attr_80</header>
           <fieldType>Boolean</fieldType>
         </org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
@@ -141,7 +141,7 @@
       <childColumns>
         <org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>287</width>
           <header>Detsrgroup : Data_npd_attr_84</header>
           <varName>data_npd_attr_84</varName>
           <fieldType>Long</fieldType>
@@ -170,7 +170,7 @@
       <childColumns>
         <org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>354</width>
           <header>detssupercategory : Data_npd_attr_82</header>
           <varName>data_npd_attr_82</varName>
           <fieldType>Long</fieldType>
@@ -199,7 +199,7 @@
       <childColumns>
         <org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>308</width>
           <header>Detsrmaingroup : Data_npd_attr_80</header>
           <varName>data_npd_attr_80</varName>
           <fieldType>Long</fieldType>
@@ -228,7 +228,7 @@
       <childColumns>
         <org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>436</width>
           <header>Detsrgroup : Assign data.data_npd_attr_84 to data_npd_attr_84</header>
           <fieldType>Boolean</fieldType>
         </org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
